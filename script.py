@@ -5,7 +5,7 @@ collected data from the API, which runs every hour --> collects the data and app
 existing data in the database.''' 
 
 ''' Then, I connected my RDS to --> MySql workbench to view, query, and track the data that was collected.'''
-#script.py and main_file.ipynb are the same files, please reffer to main_file.ipynb for code explanation
+#script.py and script_file.ipynb are the same files, please reffer to main_file.ipynb for code explanation
 
 
 import requests
