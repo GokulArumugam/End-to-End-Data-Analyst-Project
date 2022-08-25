@@ -7,6 +7,8 @@
 # Problem Statement:
 Rising urbanisation, booming industrialisation, and associated anthropogenic activities are the prime reasons that lead to air pollutant emissions and poor air quality. According to HEI's report, particulate matter (PM) pollution was considered the third important cause of death in 2017 and this rate was found to be highest in India. Air pollution was considered to cause over 1.1 million premature deaths in 2017 in India (HEI 2019), of which 56% was due to exposure to outdoor PM2.5 concentration and 44% was attributed to household air pollution. 
 So I've decided to collect real-time data and analyse it to see what's going on. In this project, I examined the rate of air pollution in Indian cities in terms of major air pollutants.
+  
+### I have uploaded the data collected to Kaggle, please find the dataset link, it's a 1.35 GB File [Data Set](https://www.kaggle.com/datasets/gokulguugu/air-pollution-india)
 
 My Project architecture answers the question:
 
