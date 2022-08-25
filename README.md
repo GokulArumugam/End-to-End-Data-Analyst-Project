@@ -40,19 +40,19 @@ My Project architecture answers the question:
   
 In this analytical project, we have examined a number of different matrices in order to assess the data we have gathered and make wise judgments that will benefit the environment and atmosphere, improve air quality, and generally make the world a better place to live. It has been discovered that -
   
-When counting, it appears that Delhi has the highest number of pollutant emittance; however, this may be an unfair comparison because, when considering the surface area of Delhi to the population, it has the highest count.
+When counting, it appears that **Delhi has the highest number of pollutant emittance**; however, this may be an unfair comparison because, when considering the **surface area of Delhi to the population**, it has the highest count.
   
-Based on the data, it appears that each state contributes at a different level to different pollutant levels, which could be due to the geographical location of the states.
+**Based on the data, it appears that each state contributes at a different level to different pollutant levels, which could be due to the geographical location of the states.**
   
-Let's take the example of Delhi itself, based on the data the pollutant emittent 'PM2.5' and 'NO2' have the highest count. It's understandable given the large number of vehicles and pollutants emitted by the industries themselves.
+Let's take the example of Delhi itself, based on the data the pollutant emittent `PM2.5` and `NO2` have the highest count. It's understandable given the large number of vehicles and pollutants emitted by the industries themselves.
   
-Infact, the air pollution in Delhi is so bad that, it has the total pollutant emit of Delhi is equal to rest of the six cities (Mumbai, Bengaluru, Kolkata, Hyderabad, Ghaziabad, Patna) combained.
+Infact, the air pollution in **Delhi is so bad that, it has the total pollutant emit of Delhi is equal to rest of the six cities (Mumbai, Bengaluru, Kolkata, Hyderabad, Ghaziabad, Patna) combained.**
   
-The fact that the pollution level rose from 55 to over 80 in just three to five days is a striking indication that firecrackers can significantly raise the air pollution level.
+The fact that the pollution level rose from **55 to over 80 in just three to five days is a striking indication that firecrackers can significantly raise the air pollution level.**
   
-According to the above line map, the average air pollution level from November through February ranged from 50 to 70.
+According to the above line map, the average **air pollution level from November through February ranged from 50 to 70.**
   
-But the months of November and December are when air pollution reaches its worst levels. And during the months of January and February, the amount of air pollution typically drops from 50 to 60 to 40 to 30.
+But the months of **November and December are when air pollution reaches its worst levels.** And during the months of January and February, the amount of air pollution typically drops from 50 to 60 to 40 to 30.
   
 # Documentation:
 
